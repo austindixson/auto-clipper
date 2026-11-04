@@ -4,7 +4,7 @@
   "version": "1.1.0",
   "displayName": "AutoClipper",
   "description": "Automatically scans a watch folder for media files, analyzes them using ffmpeg scene detection and loudness analysis, generates highlight clips, and organizes output. Supports cron-based scheduling and Agent Swarm integration for intelligent clip planning.",
-  "author": "RuneweaverStudios",
+  "author": "austindixson",
   "tags": [
     "video",
     "clip",
